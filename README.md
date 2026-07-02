@@ -25,7 +25,7 @@
 - 🚀 Currently learning **React.js** and **Tailwind CSS**
 - 🔭 Next goal: Backend with Python, then Data Science & AI
 - 🤖 Passionate about integrating AI into web applications
-- 🌱 Interning at **CodeAlpha** as a Frontend Development Intern (June 2026)
+- 🌱 Interned at **CodeAlpha** as a Frontend Development Intern (June 2026)
 
 ---
 
