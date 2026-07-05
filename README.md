@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saqib Hussnain 👋</h1>
 
 <p align="center">
-  Frontend Developer & BSCS Student &nbsp;|&nbsp; Building real projects with HTML, CSS & JS &nbsp;|&nbsp; Path: Full-Stack → Data Science & AI
+  React Developer & BSCS Student &nbsp;|&nbsp; Building real, deployed projects &nbsp;|&nbsp; Path: Full-Stack → Data Science & AI
 </p>
 
 <p align="center">
@@ -20,23 +20,24 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 BSCS student at University of Punjab (4th Semester)
-- 💻 Frontend Developer building real, deployed projects from scratch
-- 🚀 Currently learning **React.js** and **Tailwind CSS**
-- 🔭 Next goal: Backend with Python, then Data Science & AI
-- 🤖 Passionate about integrating AI into web applications
-- 🌱 Interned at **CodeAlpha** as a Frontend Development Intern (June 2026)
+- 🎓 BSCS student at University of the Punjab 
+- 💻 React Developer building real, deployed projects
+- 🏅 Google AI Professional Certificate holder
+- 🔭 Next goal: Next.js and Python backend development, then Data Science & AI
+- 🌱 Interned at CodeAlpha as a Frontend Development Intern (June 2026)
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -60,11 +61,15 @@
 ---
 
 ### 📚 Currently Learning
+- ⚡ Next.js (up next after a strong React project)
+- 🐍 Python (after Next.js, feeding into Data Science path)
 
-- ⚛️ React.js (Components, Hooks, State Management)
+### ✅ Recently Completed
+- ⚛️ React.js 
 - 🎨 Tailwind CSS
-- 🐍 Python (coming next after frontend fundamentals)
 
+### 🏅 Certifications
+- Google AI Professional Certificate (7 courses + capstone)
 ---
 
 ### 📊 GitHub Stats
