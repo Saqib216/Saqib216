@@ -53,6 +53,9 @@
 | 🎵 Spotify Clone | Fully functional music player with JSON-based playlists | HTML, CSS, JS | [Live](https://saqib-spotify.netlify.app) |
 | 💱 Currency Converter | Real-time converter for 150+ currencies with live API | HTML, CSS, JS | [Live](https://saqib-curr.netlify.app) |
 | 🎬 Netflix Clone | Netflix landing page with responsive design | HTML, CSS | [Live](https://saqib-flix.netlify.app) |
+| 🧮 Calculator App | Feature-rich calculator with keyboard support, expression history & advanced operations (√, x², %) | HTML, CSS, JS | [Live](https://calculator-neon-beta.vercel.app/) |
+| 🎧 PULSE Music Player | Glassmorphism music player with animated seek bar, volume control & mobile slide-up overlay | HTML, CSS, JS | [Live](https://music-player-pulse.vercel.app) |
+| 🖼️ LUMINA Image Gallery | Responsive image gallery with category filters, live search & keyboard-navigable lightbox | HTML, CSS, JS | [Live](https://image-gallery-lumina.vercel.app) |
 
 ---
 
