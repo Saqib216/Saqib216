@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/saqib-hussnain">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://saqib-portfo.netlify.app">
+  <a href="https://saqib-hussnain.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="mailto:mdsaqibhussnain@gmail.com">
@@ -50,10 +50,9 @@
 
 | Project | Description | Tech | Live |
 |---|---|---|---|
-| 🤖 AI Text Toolkit | 6-mode AI text processor using Gemini API | HTML, CSS, JS, Gemini API | [Live](https://ai-text-toolkit.netlify.app) |
-| 🎵 Spotify Clone | Fully functional music player with JSON-based playlists | HTML, CSS, JS | [Live](https://saqib-spotify.netlify.app) |
-| 💱 Currency Converter | Real-time converter for 150+ currencies with live API | HTML, CSS, JS | [Live](https://saqib-curr.netlify.app) |
-| 🎬 Netflix Clone | Netflix landing page with responsive design | HTML, CSS | [Live](https://saqib-flix.netlify.app) |
+| 🤖 AI Text Toolkit | 6-mode AI text processor using Gemini API | HTML, CSS, JS, Gemini API | [Live](https://ai-text-toolkit-opal.vercel.app) |
+| 🎵 Spotify Clone | Fully functional music player with JSON-based playlists | HTML, CSS, JS | [Live](https://soundpulse-nine.vercel.app/) |
+| 💱 Currency Converter | Real-time converter for 150+ currencies with live API | HTML, CSS, JS | [Live](https://currency-converter-sleek.vercel.app/) |
 | 🧮 Calculator App | Feature-rich calculator with keyboard support, expression history & advanced operations (√, x², %) | HTML, CSS, JS | [Live](https://calculator-neon-beta.vercel.app/) |
 | 🎧 PULSE Music Player | Glassmorphism music player with animated seek bar, volume control & mobile slide-up overlay | HTML, CSS, JS | [Live](https://music-player-pulse.vercel.app) |
 | 🖼️ LUMINA Image Gallery | Responsive image gallery with category filters, live search & keyboard-navigable lightbox | HTML, CSS, JS | [Live](https://image-gallery-lumina.vercel.app) |
