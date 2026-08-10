@@ -46,10 +46,41 @@
 
 ---
 
+---
+
+### ⭐ Featured Project
+
+<div align="center">
+
+  ### 👔 Workforce Pro - Employee Management System
+
+  <img src="assets/Screenshot 2026-08-05 164536.png
+" width="80%" />
+
+  **A role-based task management platform** where admins assign work and employees track it through its full lifecycle — built solo after a tutorial-based first pass, then completely rebuilt with 85+ commits over 20+ days.
+
+  🔹 Separate Admin & Employee dashboards with protected routing
+  🔹 Full task lifecycle: New → Active → Completed / Failed, synced in real time across both dashboards
+  🔹 Dark/Light mode via a custom `useTheme` hook
+  🔹 Vercel-inspired UI built with Tailwind CSS v4 design tokens
+
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  </p>
+
+  [**Live Demo**](https://workforce-pro-elite.vercel.app) &nbsp;|&nbsp; [**Source Code**](https://github.com/Saqib216/employee-management-system)
+
+</div>
+
+---
+
 ### 🚀 Projects
 
 | Project | Description | Tech | Live |
 |---|---|---|---|
+| 👔 Workforce Pro (EMS) | Role-based Employee Management System - Admin/Employee dashboards, full task lifecycle (New→Active→Completed/Failed), dark/light mode, protected routing | React, Tailwind CSS v4, Context API, React Router | [Live](https://workforce-pro-elite.vercel.app) |
 | 🤖 AI Text Toolkit | 6-mode AI text processor using Gemini API | HTML, CSS, JS, Gemini API | [Live](https://ai-text-toolkit-opal.vercel.app) |
 | 🎵 Spotify Clone | Fully functional music player with JSON-based playlists | HTML, CSS, JS | [Live](https://soundpulse-nine.vercel.app/) |
 | 💱 Currency Converter | Real-time converter for 150+ currencies with live API | HTML, CSS, JS | [Live](https://currency-converter-sleek.vercel.app/) |
@@ -60,12 +91,12 @@
 ---
 
 ### 📚 Currently Learning
-- ⚡ Next.js (up next after a strong React project)
-- 🐍 Python (after Next.js, feeding into Data Science path)
+- ⚡ Next.js — actively learning now
+- 🐍 Python (backend) — next in line for Data Science path
 
 ### ✅ Recently Completed
-- ⚛️ React.js 
-- 🎨 Tailwind CSS
+- ⚛️ React.js (advanced: Context API, protected routing, custom hooks)
+- 🎨 Tailwind CSS v4
 
 ### 🏅 Certifications
 - Google AI Professional Certificate (7 courses + capstone)
