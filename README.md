@@ -54,8 +54,7 @@
 
   ### 👔 Workforce Pro - Employee Management System
 
-  <img src="assets/Screenshot 2026-08-05 164536.png
-" width="80%" />
+  <img src="assets/workforce-pro-screenshot.png" width="80%" />
 
   **A role-based task management platform** where admins assign work and employees track it through its full lifecycle — built solo after a tutorial-based first pass, then completely rebuilt with 85+ commits over 20+ days.
 
