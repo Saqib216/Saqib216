@@ -99,6 +99,7 @@
 
 ### 🏅 Certifications
 - Google AI Professional Certificate (7 courses + capstone)
+- IBM Data Science
 ---
 
 ### 📊 GitHub Stats
