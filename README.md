@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Saqib Hussnain 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Saqib Hussnain 👋</h1>
 
 <p align="center">
-  React Developer & BSCS Student &nbsp;|&nbsp; Building real, deployed projects &nbsp;|&nbsp; Path: Full-Stack → Data Science & AI
+  Full Stack Next.js Developer &nbsp;|&nbsp; Building real, deployed projects &nbsp;|&nbsp; Path: Python Backend & AI Engineering
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 BSCS student at University of the Punjab 
-- 💻 React Developer building real, deployed projects
+- 💻 Full Stack Next.js Developer 
 - 🏅 Google AI Professional Certificate holder
-- 🔭 Next goal: Next.js and Python backend development, then Data Science & AI
+- 🔭 Next goal: Python backend development -> AI Engineering
 - 🌱 Interned at CodeAlpha as a Frontend Development Intern (June 2026)
 
 ---
@@ -98,8 +98,9 @@
 - 🎨 Tailwind CSS v4
 
 ### 🏅 Certifications
-- Google AI Professional Certificate (7 courses + capstone)
+- Google AI Professional Certificate 
 - IBM Data Science
+- Andrew Ng's ML Specialization
 ---
 
 ### 📊 GitHub Stats
